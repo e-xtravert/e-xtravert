@@ -1,2 +1,2 @@
-# extravert.github.io
 <h2>this is extravert</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=extravert)](https://github.com/anuraghazra/github-readme-stats)
