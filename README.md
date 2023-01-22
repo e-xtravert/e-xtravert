@@ -10,6 +10,8 @@
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊 
 
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*** -->
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -25,9 +27,6 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*** -->
 ---
 ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=extravert"> -->
