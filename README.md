@@ -4,11 +4,11 @@
 
 <!-- *to be honest, it's shamed for me to introduce myself too much there, what i need is learning more* -->
 ---
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: play badminton、play guitar
+- A  Master of first grade Student major in Computer Technology。
+- 🌱 Currently studying in Guangxi, China.
+<!-- - 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com) -->
+<!-- - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus) -->
+- ⚡ Fun fact: cardinality estimation
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -30,5 +30,4 @@
 ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 ---
 <img src = "https://github-readme-stats.vercel.app/api?username=extravert">
-
 ⭐️ From [extravert](https://github.com/extravert)
