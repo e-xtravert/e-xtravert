@@ -2,7 +2,7 @@
 
 ### I'm Jinbin Zheng
 
-*to be honest, it's shamed for me to introduce myself too much there, what i need is learning more*
+<!-- *to be honest, it's shamed for me to introduce myself too much there, what i need is learning more* -->
 ---
 <!-- - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
@@ -29,7 +29,7 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊*** -->
 ---
-
+***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=extravert"> -->
 
 ⭐️ From [extravert](https://github.com/extravert)
