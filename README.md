@@ -4,7 +4,7 @@
 
 <!-- *to be honest, it's shamed for me to introduce myself too much there, what i need is learning more* -->
 ---
-- A  Master of first grade Student major in Computer Technology。
+-  A  Master of first grade Student major in Computer Technology。
 - 🌱 Currently studying in Guangxi, China.
 <!-- - 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com) -->
 <!-- - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus) -->
