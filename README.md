@@ -30,4 +30,4 @@
 ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 ---
 <img src = "https://github-readme-stats.vercel.app/api?username=extravert">
-<!-- ⭐️ From [extravert](https://github.com/extravert) -->
+⭐️ From [extravert](https://github.com/extravert)
