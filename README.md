@@ -5,9 +5,9 @@
 <!-- *to be honest, it's shamed for me to introduce myself too much there, what i need is learning more* -->
 <!-- --- -->
 ---
-- ⭐️ First-year master student  major in Computer Technology。
+- ⭐️ Third-year master student  major in Computer Technology。
 - 🌱 Currently studying in Guangxi, China.
-- ⚡ Fun fact: cardinality estimation
+- ⚡ Fun fact: cardinality estimation，knowledge graph
 
 
 ### 🛠 技术栈 | Tech Stack
